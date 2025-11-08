@@ -6,7 +6,8 @@ Maintain a consistent code style for readability.
 Documentation:
 Ensure well-documented code for effective collaboration
 
-Issue Tracker
+Issue Tracker:
 Check the Issue tracker for task
 
-Licensing
+Licensing:
+All contributions undergo a code reviews process.
